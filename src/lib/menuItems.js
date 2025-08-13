@@ -6,4 +6,5 @@ export const menuItems = [
   { title: 'About', href: '/about-us', Icon: BiUser },
   { title: 'Services', href: '/services', Icon: HiOutlineChatBubbleBottomCenterText },
   { title: 'Contact', href: '/contact-us', Icon: HiOutlineChatBubbleBottomCenterText },
+    { title: 'Downloads', href: '/downloads', Icon: HiOutlineChatBubbleBottomCenterText },
 ];

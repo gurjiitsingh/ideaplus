@@ -21,7 +21,7 @@ export default function Home() {
         </section> */}
 
         {/* Services Section */}
-        <section className="py-12 px-6">
+        <section className="py-1 ">
           <div className="container mx-auto">
             <h2 className="text-2xl font-bold text-center mb-8">Our Services</h2>
             <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-4">

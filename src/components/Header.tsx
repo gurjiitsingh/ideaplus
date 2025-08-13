@@ -18,7 +18,7 @@ export default function Header() {
         <Link href="/" className="flex items-center gap-2">
           <Image
             src="/images/logo.png"
-            alt="Man Brar Construction Ltd."
+            alt="Idea Plus Software"
             width={150}
             height={40}
             className="object-contain h-10   "
